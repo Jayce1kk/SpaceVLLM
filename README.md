@@ -22,13 +22,10 @@ Multimodal large language models (MLLMs) have made remarkable progress in either
 ## Citation
 
 ```bibtext
-@misc{wang2025spacevllmendowingmultimodallarge,
-      title={SpaceVLLM: Endowing Multimodal Large Language Model with Spatio-Temporal Video Grounding Capability}, 
-      author={Jiankang Wang and Zhihan Zhang and Zhihang Liu and Yang Li and Jiannan Ge and Hongtao Xie and Yongdong Zhang},
-      year={2025},
-      eprint={2503.13983},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2503.13983}, 
+@article{wang2025spacevllm,
+  title={SpaceVLLM: Endowing Multimodal Large Language Model with Spatio-Temporal Video Grounding Capability},
+  author={Wang, Jiankang and Zhang, Zhihan and Liu, Zhihang and Li, Yang and Ge, Jiannan and Xie, Hongtao and Zhang, Yongdong},
+  journal={arXiv preprint arXiv:2503.13983},
+  year={2025}
 }
 ```
